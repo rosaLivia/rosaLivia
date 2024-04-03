@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d31a38&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ed2939&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ed92fd&size=35&center=true&vCenter=true&width=1000&lines=Hello!,+My+name+is+Lívia+Rosa;I'm+19+years+old;I'm+from+Brazil;I'm+a+Software+Engineering+Student;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ed2939&size=35&center=true&vCenter=true&width=1000&lines=Hello!,+My+name+is+Lívia+Rosa;I'm+19+years+old;I'm+from+Brazil;I'm+a+Software+Engineering+Student;Be+Welcome!+:%29)
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/livia_rd/)
@@ -31,5 +31,5 @@
 
 ##
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d31a38&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ed2939&height=120&section=footer"/>
 
